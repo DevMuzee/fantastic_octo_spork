@@ -163,7 +163,7 @@ print(f'Final consistent data: {over_final_cons.shape[0]}')
 ```mermaid
 graph TD
     A[bike-sales-data-cleaning/] --> B[data/]
-    B --> B1[raw/ <br/> # Original dataset (uncleaned CSV)]
+    B --> B1[raw/ <br/> # Original dataset Uncleaned CSV]
     B --> B2[cleaned/ <br/> # Final cleaned dataset]
 
     A --> C[notebooks/]
