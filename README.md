@@ -175,4 +175,3 @@ graph TD
 
     A --> E[📜 README.md <br/> 📖 Project documentation]
     A --> F[📑 requirements.txt <br/> 📦 List of dependencies]
-```
