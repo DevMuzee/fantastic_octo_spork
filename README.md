@@ -1,7 +1,7 @@
 ```mermaid
 graph TD
     A[📂 bike-sales-data-cleaning/] --> B[📂 data/];
-    B --> B1[📄 raw/ 🗂️ Original dataset (uncleaned CSV)];
+    B --> B1[📄 raw/ 🗂️ Original dataset uncleaned ];
     B --> B2[📄 cleaned/ ✅ Final cleaned dataset];
     A --> C[📂 notebooks/];
     C --> C1[📓 01_exploration.ipynb 🔎 Initial data exploration];
